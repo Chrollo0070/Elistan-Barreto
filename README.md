@@ -29,18 +29,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- ⚽ **Football Match Prediction (ML Web App)**  
-  Logistic regression model using real-world match data.
-
-- 🃏 **Pokémon TCG Pack Opening App**  
-  Full-stack React + Express app with user accounts & collections.
-
-- 🅿️ **ParkKaro – Smart Parking (Product Pitch)**  
-  Business plan, user flow & go-to-market strategy.
-
----
-
 ### 🌐 Connect With Me
 <p>
   <a href="mailto:elist anbarretto@gmail.com">
