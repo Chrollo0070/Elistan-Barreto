@@ -10,7 +10,7 @@
 🧠 Interested in AI, Cloud & Scalable Systems  
 ⚽ Football | 🏎️ Formula 1  | chess  |
 
-<br/><br/><br/><br>
+<br/><br/><br/>
 
 ---
 
