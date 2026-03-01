@@ -8,7 +8,7 @@
 🎓 MCA Student (2024–2026)  
 💻 Full-Stack Developer | ML Enthusiast  
 🧠 Interested in AI, Cloud & Scalable Systems  
-⚽ Football | 🏎️ Formula 1  | chess  |
+⚽ Football | 🏎️ Formula 1  | chess |
 
 <br/><br/><br/>
 
