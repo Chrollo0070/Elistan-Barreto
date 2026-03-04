@@ -217,9 +217,6 @@ const elistan = {
 
 <div align="center">
   
-### 💡 Fun Fact
-*"I'm passionate about creating interactive experiences, from 3D games to web apps, while exploring the endless possibilities of AI and cloud technologies!"*
-
 </div>
 
 ---
